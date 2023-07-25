@@ -1,0 +1,13 @@
+gspread
+gspread_dataframe
+numpy
+oauth2client
+pandas
+protobuf
+requests
+boto3
+pytest-timeit
+configparser
+hubspot-api-client
+mysql-connector-python
+bs4

@@ -11,3 +11,4 @@ configparser
 hubspot-api-client
 mysql-connector-python
 bs4
+dotenv

@@ -50,3 +50,10 @@ Various projects I've worked on for CourseKey.
 **Technologies Used:** Python, Beautiful Soup.  
 **Result:** CRM consistently updated, ensuring CourseKey's outreach and sales teams always had accurate information.  
 **Challenges:** Protections on the website prevented me from scraping the data, so I had to copy the HTML directly to get around the protections.
+
+### Map Clients
+
+**Objective:** Show all of the schools that CourseKey works with on a map.
+**Description:** Created a map of all of CourseKey's clients using the Google Maps API.
+**Technologies Used:** Python, Google Maps API, Pandas
+**Result:** A map of all of CourseKey's clients that can be filtered by state and program.

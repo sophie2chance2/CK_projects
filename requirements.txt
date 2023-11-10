@@ -12,3 +12,8 @@ hubspot-api-client
 mysql-connector-python
 bs4
 dotenv
+
+requests
+folium
+python-dotenv
+googlemaps
